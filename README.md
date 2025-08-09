@@ -14,12 +14,6 @@
 
 **Multi-cloud certified Data Engineer** with **9 professional certifications** across AWS, Azure, AI/ML, and DevOps. Currently pursuing MS in Data Science at RIT and worked as Junior Data Scientist at Data Minds Analytics, building production-ready ML pipelines and automated deployment systems.
 
-**🏅 Key Certifications:**
-- **Microsoft DevOps Engineer Expert** (2025)
-- **Microsoft Fabric Data Engineer** (2025) 
-- **AWS Cloud Practitioner** (2025)
-- **Azure AI Engineer + Data Scientist** (2025)
-
 ---
 
 ## 🛠️ **Technical Skills**
