@@ -1,6 +1,6 @@
 # Hi there, I'm Basanth Varaganti! 👋
 
-**🚀 DevOps & Data Engineer | 9 Microsoft + AWS Certifications | MS Data Science @ RIT**
+**🚀 DevOps & Data Engineer | MS Data Science @ RIT**
 
 *Building scalable data pipelines & automating cloud workflows to help teams move faster*
 
@@ -103,6 +103,9 @@
 🌟 **Open to opportunities in DevOps, Data Engineering, and Cloud Architecture**
 
 💡 Feel free to explore my repositories and let's collaborate, learn together, and grow together! Always excited to tackle challenging data problems and build scalable solutions.
+
+### 🗂️ **Explore All My Work**
+📂 **View all 41+ repositories:** Click the **"Repositories"** tab above to explore my complete portfolio of projects spanning Python, Java, Machine Learning, Data Engineering, and Cloud Solutions!
 
 ---
 
