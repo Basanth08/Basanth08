@@ -108,20 +108,6 @@ I specialize in **Microsoft Fabric**, **Azure AI services**, **AWS cloud solutio
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basanth08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basanth08&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=repo1,repo2)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Basanth08&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📈 **Current Focus & Learning**
 
 🔭 **Working on:**
