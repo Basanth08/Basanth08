@@ -1,6 +1,6 @@
 # Hi there, I'm Basanth Varaganti! 👋
 
-**🚀 DevOps & Data Engineer | MS Data Science @ RIT**
+**🚀 Aspiring DevOps & Data Engineer | MS Data Science @ RIT**
 
 *Building scalable data pipelines & automating cloud workflows to help teams move faster*
 
