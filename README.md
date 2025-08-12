@@ -69,10 +69,6 @@
 - [![Azure](https://img.shields.io/badge/-Azure%20Administrator-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/credentials/A0734C44548613C0) **Microsoft Certified: Azure Administrator Associate** (Jul 2025 - Jul 2026)  
   *Credential ID: A0734C44548613C0*
 
-### **🔧 DevOps & Engineering**
-- [![DevOps](https://img.shields.io/badge/-DevOps%20Engineer%20Expert-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/credentials/9280F3AD6D4C3DB) **Microsoft Certified: DevOps Engineer Expert** (Jul 2025 - Jul 2026)  
-  *Credential ID: 9280F3AD6D4C3DB*
-
 ### **📊 Data Engineering & Analytics**
 - [![Fabric](https://img.shields.io/badge/-Fabric%20Data%20Engineer-0078D4?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/credentials/FF6EB2578DD07CA7) **Microsoft Certified: Fabric Data Engineer Associate** (Jul 2025 - Jul 2026)  
   *Credential ID: FF6EB2578DD07CA7*
@@ -85,10 +81,6 @@
 
 - [![Power BI](https://img.shields.io/badge/-Power%20BI%20Data%20Analyst-F2C811?style=flat&logo=power-bi&logoColor=black)](https://learn.microsoft.com/en-us/users/credentials/427FA498715A3381) **Microsoft Certified: Power BI Data Analyst Associate** (Feb 2025)  
   *Credential ID: 427FA498715A3381*
-
-### **🤖 AI & Machine Learning**
-- [![AI Engineer](https://img.shields.io/badge/-Azure%20AI%20Engineer-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/credentials/64DF245D2A5704B8) **Microsoft Certified: Azure AI Engineer Associate** (Feb 2025)  
-  *Credential ID: 64DF245D2A5704B8*
 
 - [![Data Scientist](https://img.shields.io/badge/-Azure%20Data%20Scientist-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/credentials/EC74BD70111EF370) **Microsoft Certified: Azure Data Scientist Associate** (Feb 2025)  
   *Credential ID: EC74BD70111EF370*
